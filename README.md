@@ -2,8 +2,9 @@
 <h3 align="center">Im a passionate developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexdd10&label=Profile%20views&color=0e75b6&style=flat" alt="alexdd10" /> </p>
-
 - 📫 How to reach me **alexporceldomingos@gmail.com**
+
+##- 🧶 About me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
