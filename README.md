@@ -9,6 +9,14 @@
 <p>I dont have public projects, but there's something cooking...👀</p>
 <p>I love motorsport, programming, music...  </p>
 
+| Parameter      | Type     | Description                       |
+| :------------- | :------- | :-------------------------------- |
+| `id`           | `string` | 10                                |
+| `name`         | `string` | Alex                              |
+| `age`          |  `int`   | 20                                |
+| `social_media` |  `bool`  | True                              |
+| `skill`        |  `int`   | 5                                 |
+
 
 
 <h3 align="left">Connect with me:</h3>
