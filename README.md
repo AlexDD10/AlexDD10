@@ -9,6 +9,7 @@
 <p>I dont have public projects, but there's something cooking...👀</p>
 <p>I love motorsport, programming, music...  </p>
 
+## 👩‍💻 DB Info
 | Parameter      | Type     | Description                       |
 | :------------- | :------- | :-------------------------------- |
 | `id`           | `string` | 10                                |
